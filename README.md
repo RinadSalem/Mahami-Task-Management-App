@@ -2,6 +2,7 @@
 efficiently with local storage and scheduled notifications support.  The app is designed with clean architecture principles and a structured folder organization to demonstrate good Flutter development practices.
 
 
+
 ## ✨ Features
 
 * 📝 Add, edit, and delete tasks
@@ -13,7 +14,7 @@ efficiently with local storage and scheduled notifications support.  The app is 
 * 🔐 Login & Register UI
 * ⚙️ Settings screen
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -24,7 +25,8 @@ efficiently with local storage and scheduled notifications support.  The app is 
 * 🌍 timezone – Timezone-aware scheduling
 * 🔤 Google Fonts – Custom Typography
 
----
+
+
 
 ## 📂 Project Structure
 
@@ -55,7 +57,7 @@ lib/
 │
 └── main.dart
 ```
----
+
 
 ## 🧠 Architecture Overview
 
@@ -68,7 +70,7 @@ The application follows a layered structure:
 
 State management is handled using Provider, separating UI from logic and ensuring maintainability and scalability.
 
----
+
 
 ## 🚀 Getting Started
 
@@ -91,7 +93,8 @@ flutter pub get
 flutter run
 ```
 
----
+
+
 
 ## 📸 Screenshots
 
@@ -101,7 +104,8 @@ flutter run
 | Task Details | Login Screen | Home Completed |
 | ![task_details](screenshots/task_details.png) | ![Login](screenshots/login.png) | ![home_completed](screenshots/home_completed.png) |
 
----
+
+
 
 ## 🎯 Future Improvements
 
@@ -111,7 +115,8 @@ flutter run
 * 🔐 Real authentication backend
 * 🗂️ Task categories & filters
 
----
+
+
 
 ## 👨‍💻 Developer
 
