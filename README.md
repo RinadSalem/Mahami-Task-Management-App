@@ -1,5 +1,5 @@
 # Mahami-Task-Management-App
-efficiently with local storage and scheduled notifications support.  The app is designed with clean architecture principles and a structured folder organization to demonstrate good Flutter development practices.
+ Efficient task management with local data storage and scheduled notifications. The app follows clean architecture principles with a well-structured folder organization, showcasing solid Flutter development practices.
 
 
 
