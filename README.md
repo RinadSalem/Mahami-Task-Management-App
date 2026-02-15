@@ -28,6 +28,7 @@ efficiently with local storage and scheduled notifications support.  The app is 
 
 ## 📂 Project Structure
 
+```bash
 
 lib/
 │
@@ -53,8 +54,7 @@ lib/
 │   └── task_item.dart
 │
 └── main.dart
-
-
+```
 ---
 
 ## 🧠 Architecture Overview
