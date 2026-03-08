@@ -5,25 +5,25 @@
 
 ## ✨ Features
 
-* 📝 Add, edit, and delete tasks
-* ⏰ Schedule task reminders with local notifications
-* 💾 Persist tasks locally using device storage
-* 🌍 Arabic (RTL) and English (LTR) support
-* 🎨 Custom UI theme with Google Fonts
-* 📱 Splash screen & onboarding experience
-* 🔐 Login & Register UI
-* ⚙️ Settings screen
+* Add, edit, and delete tasks
+* Schedule task reminders with local notifications
+* Persist tasks locally using device storage
+* Arabic (RTL) and English (LTR) support
+* Custom UI theme with Google Fonts
+* Splash screen & onboarding experience
+* Login & Register UI
+* Settings screen
 
 
 
 ## 🛠️ Technologies Used
 
-* 💙 Flutter
-* 📦 Provider – State Management
-* 💾 SharedPreferences – Local Data Persistence
-* 🔔 flutter_local_notifications – Task Reminders
-* 🌍 timezone – Timezone-aware scheduling
-* 🔤 Google Fonts – Custom Typography
+* Flutter
+* Provider – State Management
+* SharedPreferences – Local Data Persistence
+* flutter_local_notifications – Task Reminders
+* timezone – Timezone-aware scheduling
+* Google Fonts – Custom Typography
 
 
 
@@ -59,7 +59,7 @@ lib/
 ```
 
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 The application follows a layered structure:
 
@@ -72,22 +72,22 @@ State management is handled using Provider, separating UI from logic and ensurin
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/RinadSalem/maham i.git
 cd mahami
 ```
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 flutter pub get
 ```
 
-### 3️⃣ Run the app
+###  Run the app
 
 ```bash
 flutter run
@@ -96,7 +96,7 @@ flutter run
 
 
 
-## 📸 Screenshots
+##  Screenshots
 
 | Onboarding | Home Active | Add Task |
 |-------------|--------------|---------|
@@ -107,18 +107,18 @@ flutter run
 
 
 
-## 🎯 Future Improvements
+##  Future Improvements
 
-* 🌙 Dark Mode
-* ☁️ Cloud synchronization
-* 📊 Productivity analytics
-* 🔐 Real authentication backend
-* 🗂️ Task categories & filters
-
-
+*  Dark Mode
+*  Cloud synchronization
+*  Productivity analytics
+*  Real authentication backend
+*  Task categories & filters
 
 
-## 👨‍💻 Developer
+
+
+##  Developer
 
 Developed as a Flutter project for a core university subject to demonstrate:
 
